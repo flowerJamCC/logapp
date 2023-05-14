@@ -1,0 +1,19 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.input-class{
+    width: 500px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+
+.label-class{
+    font-family:'roboto';
+    
+}

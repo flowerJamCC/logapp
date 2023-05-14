@@ -1,0 +1,33 @@
+.mat-icon{
+    color: blue;
+}
+
+.main-container{
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.main-left {
+    background-color: #e4e4e4;
+    border-radius: 10px;
+    height: 75vh;
+    width: 45%;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:flex-start;
+}
+
+.main-right {
+    border-radius: 10px;
+    height: 75vh;
+    width: 45%;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
